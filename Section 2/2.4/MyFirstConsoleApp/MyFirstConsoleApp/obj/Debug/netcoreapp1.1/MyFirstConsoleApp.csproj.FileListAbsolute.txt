@@ -1,0 +1,9 @@
+c:\users\jmast\documents\visual studio 2017\Projects\MyFirstConsoleApp\MyFirstConsoleApp\bin\Debug\netcoreapp1.1\MyFirstConsoleApp.deps.json
+c:\users\jmast\documents\visual studio 2017\Projects\MyFirstConsoleApp\MyFirstConsoleApp\bin\Debug\netcoreapp1.1\MyFirstConsoleApp.runtimeconfig.json
+c:\users\jmast\documents\visual studio 2017\Projects\MyFirstConsoleApp\MyFirstConsoleApp\bin\Debug\netcoreapp1.1\MyFirstConsoleApp.runtimeconfig.dev.json
+c:\users\jmast\documents\visual studio 2017\Projects\MyFirstConsoleApp\MyFirstConsoleApp\bin\Debug\netcoreapp1.1\MyFirstConsoleApp.dll
+c:\users\jmast\documents\visual studio 2017\Projects\MyFirstConsoleApp\MyFirstConsoleApp\bin\Debug\netcoreapp1.1\MyFirstConsoleApp.pdb
+c:\users\jmast\documents\visual studio 2017\Projects\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\netcoreapp1.1\MyFirstConsoleApp.csprojResolveAssemblyReference.cache
+c:\users\jmast\documents\visual studio 2017\Projects\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\netcoreapp1.1\MyFirstConsoleApp.AssemblyInfo.cs
+c:\users\jmast\documents\visual studio 2017\Projects\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\netcoreapp1.1\MyFirstConsoleApp.dll
+c:\users\jmast\documents\visual studio 2017\Projects\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\netcoreapp1.1\MyFirstConsoleApp.pdb
