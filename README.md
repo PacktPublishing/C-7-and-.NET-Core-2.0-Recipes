@@ -23,7 +23,7 @@ From this course, you’ll learn newest features of C# and ASP.NET. You’ll be 
 To fully benefit from the coverage included in this course, you will need:<br/>
 This course is for developers with prior programming knowledge who want to work with C# and .NET Core. It's also for experienced C# developers who want to get up-to-speed with the latest changes in C# and ASP.NET Core and/or want to get more in-depth knowledge of advanced C# concepts.
 ### Technical Requirements
-This course has the following software requirements:<br/>
+
 Basic knowledge of C# and .NET framework
 
 ## Related Products
