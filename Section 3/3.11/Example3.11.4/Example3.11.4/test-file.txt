@@ -1,0 +1,2 @@
+﻿C# is awesome
+.NET Core is great!

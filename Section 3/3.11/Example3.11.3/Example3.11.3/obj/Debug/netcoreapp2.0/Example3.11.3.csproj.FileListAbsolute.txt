@@ -1,0 +1,9 @@
+c:\users\jmast\documents\visual studio 2017\Projects\Example3.11.3\Example3.11.3\bin\Debug\netcoreapp2.0\Example3.11.3.deps.json
+c:\users\jmast\documents\visual studio 2017\Projects\Example3.11.3\Example3.11.3\bin\Debug\netcoreapp2.0\Example3.11.3.runtimeconfig.json
+c:\users\jmast\documents\visual studio 2017\Projects\Example3.11.3\Example3.11.3\bin\Debug\netcoreapp2.0\Example3.11.3.runtimeconfig.dev.json
+c:\users\jmast\documents\visual studio 2017\Projects\Example3.11.3\Example3.11.3\bin\Debug\netcoreapp2.0\Example3.11.3.dll
+c:\users\jmast\documents\visual studio 2017\Projects\Example3.11.3\Example3.11.3\bin\Debug\netcoreapp2.0\Example3.11.3.pdb
+c:\users\jmast\documents\visual studio 2017\Projects\Example3.11.3\Example3.11.3\obj\Debug\netcoreapp2.0\Example3.11.3.csproj.CoreCompileInputs.cache
+c:\users\jmast\documents\visual studio 2017\Projects\Example3.11.3\Example3.11.3\obj\Debug\netcoreapp2.0\Example3.11.3.AssemblyInfo.cs
+c:\users\jmast\documents\visual studio 2017\Projects\Example3.11.3\Example3.11.3\obj\Debug\netcoreapp2.0\Example3.11.3.dll
+c:\users\jmast\documents\visual studio 2017\Projects\Example3.11.3\Example3.11.3\obj\Debug\netcoreapp2.0\Example3.11.3.pdb

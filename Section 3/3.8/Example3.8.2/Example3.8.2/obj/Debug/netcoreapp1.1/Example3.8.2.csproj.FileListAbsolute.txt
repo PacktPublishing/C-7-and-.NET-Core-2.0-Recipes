@@ -1,0 +1,9 @@
+C:\Users\jmast\Documents\Camtasia Studio\Packt\C# 7 and .NET Core 2.0 Recipes\Section 3\3.8\Example3.8.2\Example3.8.2\bin\Debug\netcoreapp1.1\Example3.8.2.deps.json
+C:\Users\jmast\Documents\Camtasia Studio\Packt\C# 7 and .NET Core 2.0 Recipes\Section 3\3.8\Example3.8.2\Example3.8.2\bin\Debug\netcoreapp1.1\Example3.8.2.runtimeconfig.json
+C:\Users\jmast\Documents\Camtasia Studio\Packt\C# 7 and .NET Core 2.0 Recipes\Section 3\3.8\Example3.8.2\Example3.8.2\bin\Debug\netcoreapp1.1\Example3.8.2.runtimeconfig.dev.json
+C:\Users\jmast\Documents\Camtasia Studio\Packt\C# 7 and .NET Core 2.0 Recipes\Section 3\3.8\Example3.8.2\Example3.8.2\bin\Debug\netcoreapp1.1\Example3.8.2.dll
+C:\Users\jmast\Documents\Camtasia Studio\Packt\C# 7 and .NET Core 2.0 Recipes\Section 3\3.8\Example3.8.2\Example3.8.2\bin\Debug\netcoreapp1.1\Example3.8.2.pdb
+C:\Users\jmast\Documents\Camtasia Studio\Packt\C# 7 and .NET Core 2.0 Recipes\Section 3\3.8\Example3.8.2\Example3.8.2\obj\Debug\netcoreapp1.1\Example3.8.2.csprojResolveAssemblyReference.cache
+C:\Users\jmast\Documents\Camtasia Studio\Packt\C# 7 and .NET Core 2.0 Recipes\Section 3\3.8\Example3.8.2\Example3.8.2\obj\Debug\netcoreapp1.1\Example3.8.2.AssemblyInfo.cs
+C:\Users\jmast\Documents\Camtasia Studio\Packt\C# 7 and .NET Core 2.0 Recipes\Section 3\3.8\Example3.8.2\Example3.8.2\obj\Debug\netcoreapp1.1\Example3.8.2.dll
+C:\Users\jmast\Documents\Camtasia Studio\Packt\C# 7 and .NET Core 2.0 Recipes\Section 3\3.8\Example3.8.2\Example3.8.2\obj\Debug\netcoreapp1.1\Example3.8.2.pdb

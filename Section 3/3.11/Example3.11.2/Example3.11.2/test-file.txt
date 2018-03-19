@@ -1,0 +1,3 @@
+﻿C# is awesome
+.NET Core is great!
+Visual Studio is the best IDE
