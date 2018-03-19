@@ -1,0 +1,13 @@
+c:\users\jmast\documents\visual studio 2017\Projects\MyFirstWebApp\MyFirstWebApp\bin\Debug\netcoreapp2.0\x86\e_sqlite3.dll
+c:\users\jmast\documents\visual studio 2017\Projects\MyFirstWebApp\MyFirstWebApp\bin\Debug\netcoreapp2.0\x64\e_sqlite3.dll
+c:\users\jmast\documents\visual studio 2017\Projects\MyFirstWebApp\MyFirstWebApp\bin\Debug\netcoreapp2.0\MyFirstWebApp.deps.json
+c:\users\jmast\documents\visual studio 2017\Projects\MyFirstWebApp\MyFirstWebApp\bin\Debug\netcoreapp2.0\MyFirstWebApp.runtimeconfig.json
+c:\users\jmast\documents\visual studio 2017\Projects\MyFirstWebApp\MyFirstWebApp\bin\Debug\netcoreapp2.0\MyFirstWebApp.runtimeconfig.dev.json
+c:\users\jmast\documents\visual studio 2017\Projects\MyFirstWebApp\MyFirstWebApp\bin\Debug\netcoreapp2.0\MyFirstWebApp.dll
+c:\users\jmast\documents\visual studio 2017\Projects\MyFirstWebApp\MyFirstWebApp\bin\Debug\netcoreapp2.0\MyFirstWebApp.pdb
+c:\users\jmast\documents\visual studio 2017\Projects\MyFirstWebApp\MyFirstWebApp\obj\Debug\netcoreapp2.0\MyFirstWebApp.csprojResolveAssemblyReference.cache
+c:\users\jmast\documents\visual studio 2017\Projects\MyFirstWebApp\MyFirstWebApp\obj\Debug\netcoreapp2.0\MyFirstWebApp.csproj.CoreCompileInputs.cache
+c:\users\jmast\documents\visual studio 2017\Projects\MyFirstWebApp\MyFirstWebApp\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+c:\users\jmast\documents\visual studio 2017\Projects\MyFirstWebApp\MyFirstWebApp\obj\Debug\netcoreapp2.0\MyFirstWebApp.AssemblyInfo.cs
+c:\users\jmast\documents\visual studio 2017\Projects\MyFirstWebApp\MyFirstWebApp\obj\Debug\netcoreapp2.0\MyFirstWebApp.dll
+c:\users\jmast\documents\visual studio 2017\Projects\MyFirstWebApp\MyFirstWebApp\obj\Debug\netcoreapp2.0\MyFirstWebApp.pdb
