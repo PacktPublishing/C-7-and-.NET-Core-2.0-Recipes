@@ -33,7 +33,3 @@ Basic knowledge of C# and .NET framework
 
 * [.NET Core Microservices [Video]](https://www.packtpub.com/application-development/net-core-microservices-video?utm_source=github&utm_medium=repository&utm_campaign=9781788626415)
 
-### Download a free PDF
-
- <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781787289444">https://packt.link/free-ebook/9781787289444 </a> </p>
